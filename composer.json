@@ -1,0 +1,21 @@
+{
+  "name": "suhongyang/ss-foundation",
+  "description": "Foundation 5 frontend workflow for SilverStripe",
+  "type": "silverstripe-theme",
+  "homepage": "https://github.com/suhongyang/ss-foundation",
+  "keywords": ["silverstripe", "foundation", "theme"],
+  "license": "MIT License",
+  "authors": [
+	{"name": "Oly Su", "email": "taiya1229@gmail.com"}
+  ],
+  "support": {
+	"issues": "https://github.com/suhongyang/ss-foundation/issues"
+  },
+  "require": {
+	"silverstripe/cms": "~3.1",
+	"silverstripe/framework": "~3.1"
+  },
+  "extra": {
+	"installer-name": "ss-foundation"
+  }
+}
