@@ -1,1 +1,4 @@
-# ss-foundation
+SS Foundation
+=============
+
+Foundation 5 for SilverStripe.
